@@ -1,9 +1,20 @@
 {
   "name": "My PWA Web App",
   "short_name": "PWA App",
-  "start_url": "https://github.com/skyperocketmyth/Manifest/blob/main/index.html",
+  "start_url": "https://skyperocketmyth.github.io/Manifest/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#6200EE",
-
+  "icons": [
+    {
+      "src": "https://skyperocketmyth.github.io/Manifest/icon1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://skyperocketmyth.github.io/Manifest/icon2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
