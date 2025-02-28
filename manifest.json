@@ -1,7 +1,7 @@
 {
   "name": "My PWA Web App",
   "short_name": "PWA App",
-  "start_url": "https://script.google.com/macros/s/AKfycbwDz2b0madiNScfeX8LrpphbHMVMkXquT9EWZ1xkcWi_uEcC5NQoC4jO8_1VGy9Ihbk/exec",
+  "start_url": "https://github.com/skyperocketmyth/Manifest/blob/main/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#6200EE",
