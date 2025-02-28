@@ -1,6 +1,6 @@
 {
-  "name": "My PWA Web App",
-  "short_name": "PWA App",
+  "name": "Tote QC Check",
+  "short_name": "Tote QC",
   "start_url": "https://skyperocketmyth.github.io/Manifest/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
