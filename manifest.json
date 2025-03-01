@@ -1,25 +1,25 @@
 {
-  "name": "Tote QC Check",
-  "short_name": "Tote QC",
-  "start_url": "https://skyperocketmyth.github.io/Tote_QC/index.html",
+  "name": "RSA Ops WMS Central",
+  "short_name": "WMS Central",
+  "start_url": "https://skyperocketmyth.github.io/WMS-Central/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#6200EE",
   "icons": [
     {
-      "src": "https://skyperocketmyth.github.io/Tote_QC/iconnew2.png",
+      "src": "https://skyperocketmyth.github.io/WMS-Central/iconnew2.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://skyperocketmyth.github.io/Tote_QC/iconnew1.png",
+      "src": "https://skyperocketmyth.github.io/WMS-Central/iconnew1.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ],
     "screenshots": [
     {
-      "src": "https://skyperocketmyth.github.io/Tote_QC/screenshotnew1.png",
+      "src": "https://skyperocketmyth.github.io/WMS-Central/screenshotnew1.png",
       "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "narrow"
